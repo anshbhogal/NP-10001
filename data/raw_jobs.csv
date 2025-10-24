@@ -1,0 +1,11 @@
+job_id,job_title,description,required_skills
+1,Data Scientist, We are looking for a Data Scientist to build predictive models analyze large datasets and communicate insights to stakeholders. Experience with ML libraries and cloud platforms is required.,Python SQL AWS Keras
+2,Full Stack Developer,Join our team as a Full Stack Developer to design build and deploy web applications. You will collaborate across the stack and own features end-to-end.,JavaScript React Node.js MongoDB
+3,ML Engineer,As an ML Engineer you will productionize models optimize inference and maintain data pipelines. Strong software engineering fundamentals are a must.,Python TensorFlow Docker GCP
+4,Data Analyst,Seeking a Data Analyst to derive insights from complex datasets build dashboards and support decision-making across the company.,Python Pandas Excel Tableau
+5,Backend Engineer,Backend Engineer needed to design secure APIs improve system performance and ensure reliability at scale.,Java Spring Boot PostgreSQL AWS
+6,AI Researcher,AI Researcher role involves experimenting with novel architectures running benchmarks and publishing findings.,PyTorch Python Research Transformers
+7,DevOps Engineer,DevOps Engineer to automate infrastructure improve developer productivity and ensure system reliability.,AWS Terraform Docker Kubernetes
+8,Product Data Scientist,Product Data Scientist to partner with product teams design experiments and measure impact.,Python SQL A/B Testing Airflow
+9,NLP Engineer,NLP Engineer to build language models improve text processing pipelines and evaluate model quality.,Python NLP spaCy HuggingFace
+10,MLOps Engineer,MLOps Engineer to design CI/CD for ML manage feature stores and monitor model performance.,Python CI/CD Docker Kubernetes
